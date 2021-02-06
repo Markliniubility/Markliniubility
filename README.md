@@ -13,7 +13,7 @@
 <td valign="top" width="50%">
  
  
-![Mark Li's GitHub Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Markliniubility&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&theme=radical)
+![Mark Li's GitHub Stats](https://github-readme-stats.vercel.app/api/wakatime?username=markliniubility&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&theme=radical)
 
 </td>
 </tr>
