@@ -18,15 +18,6 @@
 </td>
 </tr>
 
-<tr>
-
-<td valign="top" width="50%">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markliniubility&layout=compact&hide_border=true&theme=radical)
-
-</td>
-</tr>
-
 </table>
 
 <!--
