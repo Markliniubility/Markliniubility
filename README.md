@@ -8,16 +8,6 @@
 
 </tr>
 
-<tr>
-  
-<td valign="top" width="50%">
- 
- 
-![Mark Li's GitHub Stats](https://github-readme-stats.vercel.app/api/wakatime?username=markliniubility&layout=compact&custom_title=Yearly%20Development%20Breakdown&hide_border=true&theme=radical)
-
-</td>
-</tr>
-
 </table>
 
 <!--
