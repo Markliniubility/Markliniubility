@@ -3,7 +3,6 @@
 
 <td valign="top" width="40%">
   
-![Mark Li's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Markliniubility&show_icons=true&hide_border=true&theme=radical)
 </td>
 
 </tr>
